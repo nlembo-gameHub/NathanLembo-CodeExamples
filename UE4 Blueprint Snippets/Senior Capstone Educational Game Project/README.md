@@ -1,0 +1,1 @@
+For my captsone game I had to create a series of puzzles. The BP Myth Alter Parent is an alter that relics are placed upon by objects the player finds and picks up across the level. These are customizable and can me changed to fit different needs which is the purpose of the parent-child method. 
